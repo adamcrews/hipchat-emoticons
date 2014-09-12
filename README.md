@@ -1,84 +1,36 @@
-# 4K HipChat emoticons
+# HipChat emoticons
 
 We've expanded on the core set of [emoticons included with HipChat](http://hipchat-emoticons.nyh.name) and added our own.
 
+
 ## Emoticons
 
-![4K logo](src/4K.png) (4K)
-
-![+1](src/+1.png) (plusone)
-
 ![bacon](src/bacon.png) (bacon)
-
 ![bike](src/bike.png) (bike)
-
-![dietcoke](src/dietcoke.png) (dietcoke)
-
-![doge](src/doge.png) (doge)
-
-![dolpin](src/dolphin.png) (dolphin)
-
-![drupal](src/drupal.png) (drupal)
-
-![dude](src/dude.png) (dude)
-
-![ewok](src/ewok.gif) (ewok)
-
-![hamburger](src/hamburger.png) (hamburger)
-
-![horse](src/horse.png) (horse)
-
-![hr](src/hr.png) (hr)
-
-![jim](src/jim.gif) (jim)
-
-![metal](src/metal.png) (metal)
-
-![octocat](src/octocat.png) (octocat)
-
+![dietcoke](src/dietcoke) (dietcoke)
+![domo](src/domo.gif) (domo)
+![halfturkey](src/1_2_turkey.png) (halfturkey)
 ![penguin](src/penguin.gif) (penguin)
-
 ![pizza](src/pizza.png) (pizza)
-
-![poolparty](src/poolparty.gif) (poolparty)
-
-![sandwich](src/sandwich.png) (sandwich)
-
+![redbull](src/redbull.png) (redbull)
 ![sushi](src/sushi.png) (sushi)
-
 ![taco](src/taco.png) (taco)
-
-![timeforthat](src/timeforthat.gif) (timeforthat)
-
+![wolverine](src/wolverine.gif) (wolverine)
 ![wonka](src/wonka.png) (wonka)
 
-![wolverine](src/wolverine.gif) (wolverine)
 
+## People
 
-## Web chefs
+You can also summon many of us using `(firstname)`.
 
-You can also summon any of the Web Chefs using `(firstname)`, except for ![chris](src/chris.png) who is `(rupl)`.
-
-![aaron](src/aaron.png)
-![caris](src/caris.png)
-![cecy](src/cecy.png)
-![chris](src/chris.png)
-![david](src/david.png)
-![elia](src/elia.png)
-![elliott](src/elliott.png)
-![ian](src/ian.png)
-![jared](src/jared.png)
-![joe](src/joe.png)
-![leah](src/leah.png)
-![matt](src/matt.png)
-![mike](src/mike.png)
-![paul](src/patrick.png)
-![paul](src/paul.png)
-![peter](src/peter.png)
-![suzy](src/suzy.png)
-![taylor](src/taylor.png)
-![todd](src/todd.png)
-![vivek](src/vivek.png)
+![adam](src/adam.png) (adam)
+![april](src/april.png) (april)
+![ben](src/ben.png) (ben)
+![brett](src/brett.png) (brett)
+![chad](src/chad.png) (chad)
+![nick](src/nick.png) (nick)
+![sarah](src/sarah.png) (sarah)
+![tim](src/tim.png) (tim) or (cool)
 
 ## Creating your own emoticons
 
@@ -88,12 +40,3 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 * Use a transparent PNG or animated GIF for best results
 * Images must be under 100Kb
 
-## Need more emojis?
-
-Mac client: From the chat window press `ctrl+cmd+space` to bring up the emoji window.
-
-![emoji-screenshot](emoji-screenshot.png)
-
-## Why can't I use emojis like in Github?
-
-I guess HipChat isn't that hip yet. Make noise with others on the [feature request page](http://help.hipchat.com/forums/138883-suggestions-issues/suggestions/3407099-add-github-s-emoji-set).
