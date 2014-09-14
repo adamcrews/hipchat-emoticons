@@ -13,6 +13,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![penguin](src/penguin.gif) (penguin)
 ![pizza](src/pizza.png) (pizza)
 ![redbull](src/redbull.png) (redbull)
+![sf](src/sf.png) (sf)
 ![sushi](src/sushi.png) (sushi)
 ![taco](src/taco.png) (taco)
 ![wolverine](src/wolverine.gif) (wolverine)
