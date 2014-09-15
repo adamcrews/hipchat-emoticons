@@ -32,7 +32,7 @@ You can also summon many of us using `(firstname)`.
 ![chad](src/chad.png) (chad)
 ![jennifer](src/jennifer.png) (jennifer)
 ![nick](src/nick.png) (nick)
-![sarah](src/sarah.png) (sarah)
+![sarah](src/sarah2.png) (sarah)
 ![tim](src/tim.png) (tim) or (cool)
 
 ## Creating your own emoticons
