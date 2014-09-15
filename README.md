@@ -25,10 +25,12 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 You can also summon many of us using `(firstname)`.
 
 ![adam](src/adam.png) (adam)
+![amy](src/amy.png) (amy)
 ![april](src/april.png) (april)
 ![ben](src/ben.png) (ben)
 ![brett](src/brett.png) (brett)
 ![chad](src/chad.png) (chad)
+![jennifer](src/jennifer.png) (jennifer)
 ![nick](src/nick.png) (nick)
 ![sarah](src/sarah.png) (sarah)
 ![tim](src/tim.png) (tim) or (cool)
