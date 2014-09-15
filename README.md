@@ -31,6 +31,7 @@ You can also summon many of us using `(firstname)`.
 ![brett](src/brett.png) (brett)  
 ![chad](src/chad.png) (chad)  
 ![jennifer](src/jennifer.png) (jennifer)  
+![rude](src/rude.png) (rude)  
 ![nick](src/nick.png) (nick)  
 ![sarah](src/sarah2.png) (sarah)  
 ![tim](src/tim.png) (tim) or (cool)  
