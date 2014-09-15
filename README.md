@@ -5,35 +5,35 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ## Emoticons
 
-![bacon](src/bacon.png) (bacon)
-![bike](src/bike.png) (bike)
-![dietcoke](src/dietcoke) (dietcoke)
-![domo](src/domo.gif) (domo)
-![halfturkey](src/1_2_turkey.png) (halfturkey)
-![penguin](src/penguin.gif) (penguin)
-![pizza](src/pizza.png) (pizza)
-![redbull](src/redbull.png) (redbull)
-![sf](src/sf.png) (sf)
-![sushi](src/sushi.png) (sushi)
-![taco](src/taco.png) (taco)
-![wolverine](src/wolverine.gif) (wolverine)
-![wonka](src/wonka.png) (wonka)
+![bacon](src/bacon.png) (bacon)  
+![bike](src/bike.png) (bike)  
+![dietcoke](src/dietcoke.png) (dietcoke)  
+![domo](src/domo.gif) (domo)  
+![halfturkey](src/1_2_turkey.png) (halfturkey)  
+![penguin](src/penguin.gif) (penguin)  
+![pizza](src/pizza.png) (pizza)  
+![redbull](src/redbull.png) (redbull)  
+![sf](src/sf.png) (sf)  
+![sushi](src/sushi.png) (sushi)  
+![taco](src/taco.png) (taco)  
+![wolverine](src/wolverine.gif) (wolverine)  
+![wonka](src/wonka.png) (wonka)  
 
 
 ## People
 
 You can also summon many of us using `(firstname)`.
 
-![adam](src/adam.png) (adam)
-![amy](src/amy.png) (amy)
-![april](src/april.png) (april)
-![ben](src/ben.png) (ben)
-![brett](src/brett.png) (brett)
-![chad](src/chad.png) (chad)
-![jennifer](src/jennifer.png) (jennifer)
-![nick](src/nick.png) (nick)
-![sarah](src/sarah2.png) (sarah)
-![tim](src/tim.png) (tim) or (cool)
+![adam](src/adam.png) (adam)  
+![amy](src/amy.png) (amy)  
+![april](src/april.png) (april)  
+![ben](src/ben.png) (ben)  
+![brett](src/brett.png) (brett)  
+![chad](src/chad.png) (chad)  
+![jennifer](src/jennifer.png) (jennifer)  
+![nick](src/nick.png) (nick)  
+![sarah](src/sarah2.png) (sarah)  
+![tim](src/tim.png) (tim) or (cool)  
 
 ## Creating your own emoticons
 
