@@ -16,6 +16,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![sf](src/sf.png) (sf)  
 ![sushi](src/sushi.png) (sushi)  
 ![taco](src/taco.png) (taco)  
+![tesla](src/tesla.png) (tesla)  
 ![wolverine](src/wolverine.gif) (wolverine)  
 ![wonka](src/wonka.png) (wonka)  
 
