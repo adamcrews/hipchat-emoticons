@@ -5,6 +5,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ## Emoticons
 
+![avocado](src/avocado.png) (avocado)  
 ![bacon](src/bacon.png) (bacon)  
 ![bike](src/bike.png) (bike)  
 ![dietcoke](src/dietcoke.png) (dietcoke)  
