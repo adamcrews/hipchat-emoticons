@@ -33,11 +33,15 @@ You can also summon many of us using `(firstname)`.
 ![ben](src/ben.png) (ben)  
 ![brett](src/brett.png) (brett)  
 ![chad](src/chad.png) (chad)  
+![emma](src/emma.png) (emma)
 ![gracie](src/gracie.png) (gracie)
+![hadrien](src/hadrien.png) (hadrien)
 ![jennifer](src/jennifer.png) (jennifer)  
+![jt](src/jt.png) (jt)
 ![rude](src/rude.png) (rude)  
 ![nick](src/nick.png) (nick)  
 ![sarah](src/sarah2.png) (sarah)  
+![sean](src/sean.png) (sean)
 ![tim](src/tim.png) (tim) or (cool)  
 
 ## Creating your own emoticons
