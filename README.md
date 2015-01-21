@@ -7,6 +7,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ![avocado](src/avocado.png) (avocado)  
 ![bacon](src/bacon.png) (bacon)  
+![benforce](src/benforce.png) (benforce)
 ![bike](src/bike.png) (bike)  
 ![dietcoke](src/dietcoke.png) (dietcoke)  
 ![domo](src/domo.gif) (domo)  
@@ -29,6 +30,7 @@ You can also summon many of us using `(firstname)`.
 
 ![adam](src/adam.png) (adam)  
 ![amy](src/amy.png) (amy)  
+![anthony](src/anthony.png) (anthony)
 ![april](src/april.png) (april)  
 ![ben](src/ben.png) (ben)  
 ![brett](src/brett.png) (brett)  
@@ -36,6 +38,7 @@ You can also summon many of us using `(firstname)`.
 ![emma](src/emma.png) (emma)
 ![gracie](src/gracie.png) (gracie)
 ![hadrien](src/hadrien.png) (hadrien)
+![jeff](src/nofun.png) (jeff) or (nofun)
 ![jennifer](src/jennifer.png) (jennifer)  
 ![jt](src/jt.png) (jt)
 ![rude](src/rude.png) (rude)  
