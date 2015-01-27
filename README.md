@@ -5,7 +5,8 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 ## Emoticons
 
-![avocado](src/avocado.png) (avocado)  
+![avocado](src/avocado.png) (avocado)
+![awesomesauce](src/awesomesauce.png) (awesomesauce)
 ![bacon](src/bacon.png) (bacon)  
 ![benforce](src/benforce.png) (benforce)
 ![bike](src/bike.png) (bike)  
@@ -31,8 +32,10 @@ You can also summon many of us using `(firstname)`.
 ![adam](src/adam.png) (adam)  
 ![amy](src/amy.png) (amy)  
 ![anthony](src/anthony.png) (anthony)
-![april](src/april.png) (april)  
-![ben](src/ben.png) (ben)  
+![april](src/april.png) (april)
+![barry](src/barry.png) (barry)
+![ben](src/ben.png) (ben)
+![brandon](src/brandon.png) (brandon)
 ![brett](src/brett.png) (brett)  
 ![chad](src/chad.png) (chad)  
 ![emma](src/emma.png) (emma)
@@ -41,6 +44,7 @@ You can also summon many of us using `(firstname)`.
 ![jeff](src/nofun.png) (jeff) or (nofun)
 ![jennifer](src/jennifer.png) (jennifer)  
 ![jt](src/jt.png) (jt)
+![kim](src/kim.png) (kim)
 ![rude](src/rude.png) (rude)  
 ![nick](src/nick.png) (nick)  
 ![sarah](src/sarah2.png) (sarah)  
