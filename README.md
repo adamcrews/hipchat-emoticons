@@ -12,6 +12,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![bike](src/bike.png) (bike)  
 ![dietcoke](src/dietcoke.png) (dietcoke)  
 ![domo](src/domo.gif) (domo)  
+![gross](src/gross.png) (gross)
 ![hooray](src/hooray.png) (hooray)
 ![halfturkey](src/1_2_turkey.png) (halfturkey)  
 ![penguin](src/penguin.gif) (penguin)  
