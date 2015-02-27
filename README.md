@@ -17,6 +17,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![halfturkey](src/1_2_turkey.png) (halfturkey)  
 ![penguin](src/penguin.gif) (penguin)  
 ![pizza](src/pizza.png) (pizza)  
+![prosper](src/prosper.png) (prosper)
 ![redbull](src/redbull.png) (redbull)  
 ![sf](src/sf.png) (sf)  
 ![sushi](src/sushi.png) (sushi)  
