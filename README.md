@@ -51,6 +51,7 @@ You can also summon many of us using `(firstname)`.
 ![nick](src/nick.png) (nick)  
 ![sarah](src/sarah2.png) (sarah)  
 ![sean](src/sean.png) (sean)
+![slicknick](src/slicknick.png) (slicknick) or (nickm)
 ![tim](src/tim.png) (tim) or (cool)  
 
 ## Creating your own emoticons
